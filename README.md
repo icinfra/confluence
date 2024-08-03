@@ -71,7 +71,7 @@ docker exec confluence-srv java -jar /var/agent/atlassian-agent.jar \
     -m Hello@world.com \
     -n Hello@world.com \
     -o your-org \
-    -s you-server-id-xxxx
+    -s your-server-id-xxxx
 ```
 
 ## How to hack confluence plugin
